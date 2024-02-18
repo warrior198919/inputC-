@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Task01/.vscode/tasks.json
+Task01/.vscode/launch.json
+Task01/Program.cs
